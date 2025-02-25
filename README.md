@@ -55,4 +55,4 @@ Explorei a manipulação de estilos diretamente no JavaScript.
 
 -![Tela do projeto](tela-projeto.png)
 
-Feito com por Everton Balland ☘️
+Feito por Everton Balland ☘️
