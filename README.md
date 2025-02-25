@@ -53,6 +53,6 @@ Explorei a manipulação de estilos diretamente no JavaScript.
 - [Guia de Markdown](https://www.markdownguide.org/)
 - [JavaScript.info - Manipulação do DOM](https://javascript.info/document)
 
--![Tela do projeto](tela-projeto.png)
+-![Tela do exercício](tela-exercicio.png)
 
 Feito por Everton Balland ☘️
